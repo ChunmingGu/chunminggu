@@ -4,5 +4,3 @@ languageCode = "en-us"
 title = "Chunming Gu's Site"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-[params]
-  name = "Chunming Gu"
