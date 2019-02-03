@@ -6,6 +6,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   name = "Chunming Gu"
-  role = "Ph.D. Student"
-  organization = "Johns Hopkins University School of Medicine"
-  
