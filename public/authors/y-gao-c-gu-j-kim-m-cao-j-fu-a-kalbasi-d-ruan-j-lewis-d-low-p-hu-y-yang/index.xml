@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Chunming Gu&#39;s Site</title>
-    <link>/publication_types/1/</link>
-    <description>Recent content in 1 on Chunming Gu&#39;s Site</description>
+    <title>Y Gao, C Gu, J Kim, M Cao, J Fu, A Kalbasi, D Ruan, J Lewis, D Low, P Hu, Y Yang on Chunming Gu&#39;s Site</title>
+    <link>/authors/y-gao-c-gu-j-kim-m-cao-j-fu-a-kalbasi-d-ruan-j-lewis-d-low-p-hu-y-yang/</link>
+    <description>Recent content in Y Gao, C Gu, J Kim, M Cao, J Fu, A Kalbasi, D Ruan, J Lewis, D Low, P Hu, Y Yang on Chunming Gu&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/y-gao-c-gu-j-kim-m-cao-j-fu-a-kalbasi-d-ruan-j-lewis-d-low-p-hu-y-yang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/person-re-id/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/clothing-search/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
