@@ -29,7 +29,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "University Califonia, Los Angeles"
+  company = "University California, Los Angeles"
   company_url = ""
   location = "California, USA"
   date_start = "2017-07-09"
