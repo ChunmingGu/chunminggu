@@ -125,6 +125,15 @@
     
     <url>
     
+      <loc>/authors/a-kalbasi/</loc>
+      <lastmod>2018-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -152,7 +161,7 @@
     <url>
     
       <loc>/authors/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
+      <lastmod>2018-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -162,6 +171,15 @@
     
       <loc>/authors/ayache-bouakaz/</loc>
       <lastmod>2018-04-25T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/c-gu/</loc>
+      <lastmod>2018-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -188,6 +206,24 @@
     
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/d-low/</loc>
+      <lastmod>2018-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/d-ruan/</loc>
+      <lastmod>2018-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -222,8 +258,53 @@
     
     <url>
     
+      <loc>/authors/j-fu/</loc>
+      <lastmod>2018-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/j-kim/</loc>
+      <lastmod>2018-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/j-lewis/</loc>
+      <lastmod>2018-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/m-cao/</loc>
+      <lastmod>2018-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/mingxi-wan/</loc>
       <lastmod>2018-04-25T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/p-hu/</loc>
+      <lastmod>2018-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -309,7 +390,16 @@
     
     <url>
     
-      <loc>/authors/y-gao-c-gu-j-kim-m-cao-j-fu-a-kalbasi-d-ruan-j-lewis-d-low-p-hu-y-yang/</loc>
+      <loc>/authors/y-gao/</loc>
+      <lastmod>2018-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/y-yang/</loc>
       <lastmod>2018-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>

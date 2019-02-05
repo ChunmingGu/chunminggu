@@ -6,10 +6,19 @@
     <description>Recent content in Authors on Chunming Gu&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Kalbasi</title>
+      <link>/authors/a-kalbasi/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/a-kalbasi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Admin</title>
@@ -30,11 +39,38 @@
     </item>
     
     <item>
+      <title>C Gu</title>
+      <link>/authors/c-gu/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/c-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chunming Gu</title>
       <link>/authors/chunming-gu/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>/authors/chunming-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Low</title>
+      <link>/authors/d-low/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/d-low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Ruan</title>
+      <link>/authors/d-ruan/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/d-ruan/</guid>
       <description></description>
     </item>
     
@@ -48,11 +84,56 @@
     </item>
     
     <item>
+      <title>J Fu</title>
+      <link>/authors/j-fu/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/j-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Kim</title>
+      <link>/authors/j-kim/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/j-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Lewis</title>
+      <link>/authors/j-lewis/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/j-lewis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Cao</title>
+      <link>/authors/m-cao/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/m-cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mingxi Wan</title>
       <link>/authors/mingxi-wan/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>/authors/mingxi-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Hu</title>
+      <link>/authors/p-hu/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/p-hu/</guid>
       <description></description>
     </item>
     
@@ -93,11 +174,20 @@
     </item>
     
     <item>
-      <title>Y Gao, C Gu, J Kim, M Cao, J Fu, A Kalbasi, D Ruan, J Lewis, D Low, P Hu, Y Yang</title>
-      <link>/authors/y-gao-c-gu-j-kim-m-cao-j-fu-a-kalbasi-d-ruan-j-lewis-d-low-p-hu-y-yang/</link>
+      <title>Y Gao</title>
+      <link>/authors/y-gao/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/authors/y-gao-c-gu-j-kim-m-cao-j-fu-a-kalbasi-d-ruan-j-lewis-d-low-p-hu-y-yang/</guid>
+      <guid>/authors/y-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y Yang</title>
+      <link>/authors/y-yang/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/y-yang/</guid>
       <description></description>
     </item>
     
