@@ -19,14 +19,14 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *MEDICAL PHYSICS*"
-publication_short = "In *SITIS*"
+#publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

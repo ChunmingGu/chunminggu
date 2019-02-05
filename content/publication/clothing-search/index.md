@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *IEEE Transactions on Medical Imaging*"
-publication_short = "In *ICMEW*"
+#publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
 abstract = "The feasibility of ultrasonic Nakagami imaging to evaluate thermal lesions by high-intensity focused ultrasound and microwave ablation was explored in ex vivo and in vivo liver models. Dynamic changes of the ultrasonic Nakagami parameter in thermal lesions were calculated, and ultrasonic B-mode and Nakagami images were reconstructed simultaneously. The contrast-to-noise ratio (CNR) between thermal lesions and normal tissue was used to estimate the contrast resolution of the monitoring images. After thermal ablation, a bright hyper-echoic region appeared in the ultrasonic B-mode and Nakagami images, identifying the thermal lesion. During thermal ablation, mean values of Nakagami parameter showed an increasing trend from 0.72 to 1.01 for the ex vivo model and 0.54 to 0.72 for the in vivo model. After thermal ablation, mean CNR values of the ultrasonic Nakagami images were 1.29 dB (ex vivo) and 0.80 dB (in vivo), significantly higher (p < 0.05) than those for B-mode images. Thermal lesion size, assessed using ultrasonic Nakagami images, shows a good correlation to those obtained from the gross-pathology images (for the exvivo model: length, r = 0.96; width, r = 0.90; for the in vivo model: length, r = 0.95; width, r = 0.85). This preliminary study suggests that ultrasonic Nakagami parameter may have a potential use in evaluating the formation of thermal lesions with better image contrast. Moreover, ultrasonic Nakagami imaging combined with B-mode imaging may be utilized as an alternative modality in developing monitoring systems for image-guided thermal ablation treatments."
@@ -42,12 +42,12 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_code = "#"
-url_dataset = "#"
+url_code = ""
+url_dataset = ""
 url_project = ""
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
+url_slides = ""
+url_video = ""
+url_poster = ""
 url_source = "https://ieeexplore.ieee.org/abstract/document/8347065"
 
 # Custom links (optional).
