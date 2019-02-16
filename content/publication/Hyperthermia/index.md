@@ -22,7 +22,7 @@ publication = "In *International Journal of Hyperthermia*"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "In this study, the feasibility of using ultrasonic differential attenuation coefficient intercept (Δα0) imaging to evaluate thermal lesions induced by microwave ablation (MWA) was explored using an in vivo porcine model. The attenuation coefficient intercept (Δα0 is estimated by subtracting an initial value of Δα0 images. Receiver operating characteristic (ROC) curves and the area under ROC curve (AUC) were employed to statistically assess the predictability of ultrasonic imaging. Ultrasonic Δα0 values were approximately 0.13 dB/cm and 0.16 dB/cm in a normal liver and kidney, respectively, increasing to 2.9 dB/cm and 2.55 dB/cm in ablated regions after MWA. The CNR values of the ultrasonic Δα0 images (0.9 dB and 0.6 dB in the liver and kidney, respectively) were significantly higher (p < 0.05) than the values of B-mode images (0.6 dB and 0.3 dB). The AUC value of the ultrasonic Δα0 image was higher than the B-mode image value, 0.95 compared with 0.88. This in vivo study suggests that ultrasonic Δα0 imaging has the potential to evaluate thermal lesions with high accuracy and better image contrast for monitoring MWA."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
