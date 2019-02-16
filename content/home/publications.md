@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 +++
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
