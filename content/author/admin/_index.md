@@ -21,8 +21,8 @@ email = "cgu15@jhmi.edu"
 # List (academic) interests or hobbies
 interests = [
   "Magnetic Resonance Imaging",
-  "Image Processing",
-  "Signal Processing"
+  "Machine Learning",
+  "Data Science"
 ]
 
 # List qualifications (such as academic degrees)
