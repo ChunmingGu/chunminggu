@@ -75,15 +75,6 @@
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Featured Talks</title>
       <link>/home/talks_featured/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
@@ -146,6 +137,30 @@ I am a teaching instructor for the following courses at University X:
       
       <guid>/home/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description>code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description>+++
+Recent Publications widget. This widget displays recent publications from content/publication/. widget = &amp;ldquo;publications&amp;rdquo; active = true date = 2016-04-20T00:00:00
+title = &amp;ldquo;Recent Publications&amp;rdquo; subtitle = &amp;ldquo;&amp;rdquo;
+Order that this section will appear in. weight = 20
+Number of publications to list. count = 10
+List format. 0 = Simple 1 = Detailed 2 = APA 3 = MLA 4 = Stream list_format = 4
+Filter by publication type. -1: Any 0: Uncategorized 1: Conference proceedings 2: Journal 3: Work in progress 4: Technical report 5: Book 6: Book chapter publication_type = &amp;ldquo;-1&amp;rdquo;</description>
     </item>
     
   </channel>
